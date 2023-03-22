@@ -15,6 +15,8 @@
 // Package proftest contains test helpers for profiler agent integration tests.
 // This package is experimental.
 
+// test add a comment
+
 package proftest
 
 import (
